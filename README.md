@@ -1,16 +1,16 @@
 # 🌎 Parcel 2 website
 
-This is the website for Parcel v2. These docs are a **work in progress**. Please help us out by giving your feedback in issues, and feel free to send pull requests for contributions. 😍
+This Is The Website For Parcel v2. These Docs Are A **Work In Progress**. Please Help Us Out By Giving Your Feedback In Issues, And Feel Free To Send Pull Requests For Contributions. 😍
 
 ## Contributing
 
-Start a local server using:
+Start A Local Server Using:
 
 ```bash
 yarn
 yarn serve
 ```
 
-The website is automatically deployed using [Vercel](https://vercel.com).
+The Website Is Automatically Deployed Using [Vercel](https://vercel.com).
 
-Search is powered by [Algolia DocSearch](https://docsearch.algolia.com/).
+Search Is Powered By [Algolia DocSearch](https://docsearch.algolia.com/).
